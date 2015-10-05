@@ -487,7 +487,7 @@ body.videoActive .main-page-container {
 }
 
 .backstretch:before {
-  content: url(http://i.imgur.com/VFvWVtv.png);
+  content: url(http://i.imgur.com/TTZuCS6.png);
 }
 
 .main-page-container {
@@ -2704,7 +2704,7 @@ h1 {
   position: relative;
   margin: 0;
   padding: 2.7em 0 4em 0;
-  background: rgba(17, 17, 17, 0.9);
+  background: rgba(17, 17, 17, 0.8);
   z-index: 10;
   width: 100%;
   display: none;
